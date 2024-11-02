@@ -63,22 +63,22 @@ $connections->close();
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
         .metric-container {
-            border: 1px solid #ccc; /* Light grey border */
-            border-radius: 5px; /* Rounded corners */
-            padding: 15px; /* Padding inside the container */
-            margin-bottom: 15px; /* Spacing between containers */
-            background-color: #f9f9f9; /* Light background */
-            width: calc(30% - 20px); /* Width of the container */
+            border: 1px solid #ccc; 
+            border-radius: 5px; 
+            padding: 15px; 
+            margin-bottom: 15px; 
+            background-color: #f9f9f9; 
+            width: calc(30% - 20px); 
         }
 
         .dashboard-metrics {
-            display: flex; /* Align containers in a row */
-            flex-wrap: wrap; /* Allow wrapping */
-            gap: 20px; /* Space between containers */
+            display: flex; 
+            flex-wrap: wrap; 
+            gap: 20px; 
         }
 
         #content {
-            padding: 20px; /* Add padding to the content area */
+            padding: 20px; 
         }
     </style>
 </head>
